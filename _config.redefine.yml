@@ -340,7 +340,7 @@ comment:
       clientSecret: 5653fecd9813c9775efb286fed18745783d71da7 # GitHub Application Client Secret
       repo: gitalk # GitHub repository
       owner: jhao0413 # GitHub repository owner
-      proxy: # GitHub repository proxy
+      proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # GitHub repository proxy
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
       version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
