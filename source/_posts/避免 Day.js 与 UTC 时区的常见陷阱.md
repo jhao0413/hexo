@@ -3,7 +3,7 @@ title: 避免 Day.js 与 UTC 时区的常见陷阱
 tags:
   - Frontnd
 categories: Frontnd
-abbrlink: 1
+abbrlink: 2
 date: 2024-08-24 10:00:00
 ---
 在前端开发中，我们通常使用 Day.js 来格式化从后端传递过来的时间数据。后端传来的时间通常是标准的 UTC 格式，例如：
