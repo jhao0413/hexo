@@ -1,8 +1,8 @@
 ---
 title: vue+element+阿里云oss图片上传
 tags:
-  - vue
-categories: vue
+  - Vue
+categories: Vue
 abbrlink: 63894
 date: 2020-09-24 10:00:00
 expires: 2020-09-24 10:00:00

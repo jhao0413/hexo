@@ -1,8 +1,8 @@
 ---
 title: wangeditor
 tags:
-  - vue
-categories: vue
+  - Vue
+categories: Vue
 abbrlink: 28431
 date: 2021-04-15 10:00:00
 expires: 2021-04-15 10:00:00

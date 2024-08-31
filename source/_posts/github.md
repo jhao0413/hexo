@@ -1,8 +1,8 @@
 ---
 title: Github使用
 tags:
-  - github
-categories: GitHub
+  - Github
+categories: Github
 abbrlink: 60077
 date: 2019-11-09 10:00:00
 expires: 2019-11-09 10:00:00

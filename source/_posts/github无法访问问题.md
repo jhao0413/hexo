@@ -1,8 +1,8 @@
 ---
 title: Github无法访问问题解决
 tags:
-  - github
-categories: github
+  - Github
+categories: Github
 abbrlink: 47938
 date: 2020-01-31 10:00:00
 expires: 2020-01-31 10:00:00

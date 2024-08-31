@@ -1,8 +1,8 @@
 ---
 title: axios的基本使用
 tags:
-  - vue
-categories: vue
+  - Vue
+categories: Vue
 abbrlink: 55319
 date: 2020-01-12 10:00:00
 expires: 2020-01-12 10:00:00

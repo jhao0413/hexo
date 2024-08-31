@@ -1,8 +1,8 @@
 ---
 title: axios get与post请求
 tags:
-  - vue
-categories: vue
+  - Vue
+categories: Vue
 abbrlink: 9143
 date: 2020-02-18 10:00:00
 expires: 2020-02-18 10:00:00

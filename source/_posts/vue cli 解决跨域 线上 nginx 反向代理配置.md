@@ -1,8 +1,8 @@
 ---
 title: vue cli 解决跨域 线上 nginx 反向代理配置
 tags:
-  - vue
-categories: vue
+  - Vue
+categories: Vue
 abbrlink: 61269
 date: 2020-05-03 10:00:00
 expires: 2020-05-03 10:00:00

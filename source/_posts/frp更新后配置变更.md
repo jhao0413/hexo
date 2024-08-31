@@ -2,7 +2,7 @@
 title: frp更新后的配置文件写法变更
 tags:
   - frp
-categories: linux
+categories: Linux
 abbrlink: 1
 date: 2024-06-24 23:18:00
 ---
