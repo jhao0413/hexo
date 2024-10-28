@@ -3,7 +3,7 @@ title: 【LeetCode】构造相同颜色的正方形
 tags:
   - LeetCode
 categories: Frontnd
-abbrlink: promise-usage
+abbrlink: make-a-square-with-the-same-color
 date: 2024-08-31 17:00:00
 ---
 [【题目链接】3127. 构造相同颜色的正方形](https://leetcode.cn/problems/make-a-square-with-the-same-color/description/)
