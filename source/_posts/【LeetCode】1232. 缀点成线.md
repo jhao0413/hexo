@@ -4,7 +4,7 @@ tags:
   - LeetCode
 categories: Frontnd
 abbrlink: check-if-it-is-a-straight-line
-date: 2024-09-01 14:07:00
+date: 2024-10-28 14:00:00
 ---
 [【题目链接】1232. 缀点成线](https://leetcode.cn/problems/check-if-it-is-a-straight-line/description/)
 
