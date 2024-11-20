@@ -61,6 +61,8 @@ Moonlight 支持 Windows、maxOS、Android、IOS 系统，以下为 Android 演�
 
 7. 保存应用 Sunshine 的配置后，就可以实现平板作为电脑的扩展屏啦
 
+> 注意！！！如果有核显也有独显的话，需要在设备管理器中禁用核显，不然会 Moonlight 在连接时会黑屏报错：没有接收到来自主机的视频,请检查您的防火墙
+
 > 因为做记录，可能没有教程那么详细，所以列一下过程中觉得还不错的教程
 
 [摄影师云飞的串流视频教程](https://www.bilibili.com/video/BV13i421r7Ff/?spm_id_from=333.999.0.0&vd_source=92ad0963f9f6e1361b63d95a2ae52375)
