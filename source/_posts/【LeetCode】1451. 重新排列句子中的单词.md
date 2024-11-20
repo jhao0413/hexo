@@ -6,6 +6,7 @@ categories: Frontnd
 abbrlink: rearrange-words-in-a-sentence
 date: 2024-09-01 14:07:00
 ---
+
 [【题目链接】3127. 重新排列句子中的单词](https://leetcode.cn/problems/rearrange-words-in-a-sentence/description/)
 
 ### 题目描述
@@ -29,17 +30,17 @@ text 中的每个单词都用单个空格分隔。
 
 **方法一**
 
-这种是目前想出来最简单的解决方案，直接使用js的sort方法
+这种是目前想出来最简单的解决方案，直接使用 js 的 sort 方法
 
-> 这里不同的JavaScript引擎实现的方法会有所不同，V8引擎（Chrome和Node.js使用的引擎）中使用的是Timsort算法，是一种稳定的排序算法。
+> 这里不同的 JavaScript 引擎实现的方法会有所不同，V8 引擎（Chrome 和 Node.js 使用的引擎）中使用的是 Timsort 算法，是一种稳定的排序算法。
 
 ```javascript
-var arrangeWords = function(text) {
-  const textArr = text.toLowerCase().split(' ')
-  // 直接使用sort方法进行排序   
+var arrangeWords = function (text) {
+  const textArr = text.toLowerCase().split(" ");
+  // 直接使用sort方法进行排序
   textArr.sort((a, b) => a.length - b.length);
-  textArr[0] = textArr[0][0].toUpperCase() + textArr[0].slice(1)
-  return textArr.join(' ');
+  textArr[0] = textArr[0][0].toUpperCase() + textArr[0].slice(1);
+  return textArr.join(" ");
 };
 ```
 
@@ -49,40 +50,39 @@ var arrangeWords = function(text) {
 
 排序算法分为非稳定排序和稳定排序。
 
-* **非稳定性排序** 指在排序过程中，相等元素的相对位置可能会发生改变的排序算法。如果序列中有两个元素相等，经过非稳定排序后，它们的相对顺序可能与排序前不同。常见的非稳定性排序有：
-    * 快速排序
-    * 选择排序
-    * 堆排序
-    
-* **稳定性排序**指在排序过程中，相等元素的相对位置保持不变的排序算法。如果序列中有两个元素相等，经过稳定排序后，它们的相对顺序与排序前相同。常见的稳定性排序有：
-    * 冒泡排序
-    * 插入排序
-    * 归并排序
-    * 计数排序
-    * 基数排序
-    * 桶排序
+- **非稳定性排序** 指在排序过程中，相等元素的相对位置可能会发生改变的排序算法。如果序列中有两个元素相等，经过非稳定排序后，它们的相对顺序可能与排序前不同。常见的非稳定性排序有：
+  - 快速排序
+  - 选择排序
+  - 堆排序
+- **稳定性排序**指在排序过程中，相等元素的相对位置保持不变的排序算法。如果序列中有两个元素相等，经过稳定排序后，它们的相对顺序与排序前相同。常见的稳定性排序有：
+  - 冒泡排序
+  - 插入排序
+  - 归并排序
+  - 计数排序
+  - 基数排序
+  - 桶排序
 
 使用桶排序
 
 ```javascript
-var arrangeWords = function(text) {
-  const textArr = text.toLowerCase().split(' ')
-  const buckets = {}
+var arrangeWords = function (text) {
+  const textArr = text.toLowerCase().split(" ");
+  const buckets = {};
   for (const item of textArr) {
     if (buckets[item.length]) {
-      buckets[item.length].push(item)
+      buckets[item.length].push(item);
     } else {
-      buckets[item.length] = [item]
+      buckets[item.length] = [item];
     }
   }
 
-  let result = []
-  Object.keys(buckets).forEach(keys => {
-    result = result.concat(buckets[keys])
-  })
+  let result = [];
+  Object.keys(buckets).forEach((keys) => {
+    result = result.concat(buckets[keys]);
+  });
 
-  result[0] = result[0][0].toUpperCase() + result[0].slice(1)
-  return result.join(' ');
+  result[0] = result[0][0].toUpperCase() + result[0].slice(1);
+  return result.join(" ");
 };
 ```
 
