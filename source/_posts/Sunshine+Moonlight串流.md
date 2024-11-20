@@ -4,7 +4,7 @@ tags:
   - Software
 categories: Software
 abbrlink: sunshine-and-moonlight-streaming
-date: 2024-09-01 14:07:00
+date: 2024-11-20
 ---
 
 ## 前言
@@ -23,7 +23,7 @@ date: 2024-09-01 14:07:00
 
 ## Sunshine 的安装和配置
 
-可以在[GitHub Release](https://github.com/LizardByte/Sunshine/releases)或[官网](https://app.lizardbyte.dev/Sunshine/?lng=en#Download)中下载 Sunshine， 以下为 Windows 11 演示。
+可以在 [GitHub Release](https://github.com/LizardByte/Sunshine/releases) 或 [官网](https://app.lizardbyte.dev/Sunshine/?lng=en#Download) 中下载 Sunshine， 以下为 Windows 11 演示。
 
 1. 在 Sunshine 的 [Github Release](https://github.com/LizardByte/Sunshine/releases)中选择最新版本，下载 sunshine-windows-installer.exe。
 
@@ -37,7 +37,7 @@ date: 2024-09-01 14:07:00
 
 Moonlight 支持 Windows、maxOS、Android、IOS 系统，以下为 Android 演示。
 
-1. Google 商店搜索 Moonlight 下载安装，或者通过[Moonlight](https://moonlight-stream.org/)的官网下载。
+1. Google 商店搜索 Moonlight 下载安装，或者通过 [Moonlight](https://moonlight-stream.org/) 的官网下载。
 
 2. 安装成功后，Moonlight 会自动扫描局域网内的电脑，如果没有可以手动添加（输入 PC 的 IPv4 的地址即可）。
 
