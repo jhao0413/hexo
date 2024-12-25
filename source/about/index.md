@@ -5,8 +5,14 @@ title: About Me
 
 ### About Me
 
-发现还不知道怎么介绍自己
+兴趣使然的程序员、不知死活的跑步爱好者、游戏中的主角。
 
 ### Tools
 
 [Quick Reference](http://reference.jhao.me/)
+
+### Projects
+
+[React Epub Parser](https://react-epub-parser.vercel.app/)
+
+[Leaf Nest](https://leaf-nest.vercel.app/)
