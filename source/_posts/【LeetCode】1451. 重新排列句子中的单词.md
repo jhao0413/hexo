@@ -2,7 +2,7 @@
 title: 【LeetCode】重新排列句子中的单词
 tags:
   - LeetCode
-categories: Frontnd
+categories: Algorithm
 abbrlink: rearrange-words-in-a-sentence
 date: 2024-09-01 14:07:00
 ---

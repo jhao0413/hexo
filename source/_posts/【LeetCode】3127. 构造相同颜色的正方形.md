@@ -2,7 +2,7 @@
 title: 【LeetCode】构造相同颜色的正方形
 tags:
   - LeetCode
-categories: Frontnd
+categories: Algorithm
 abbrlink: make-a-square-with-the-same-color
 date: 2024-08-31 17:00:00
 ---
