@@ -5,7 +5,7 @@ title: About Me
 
 ### About Me
 
-兴趣使然的程序员、不知死活的跑步爱好者、游戏中的主角。
+兴趣使然的程序员、马拉松业余跑者、游戏中的主角。
 
 ### Tools
 
@@ -16,3 +16,7 @@ title: About Me
 [React Epub Parser](https://react-epub-parser.vercel.app/)
 
 [Leaf Nest](https://leaf-nest.vercel.app/)
+
+### demo
+
+[mini-zustand](https://github.com/jhao0413/mini-zustand)
