@@ -32,6 +32,9 @@ Nas装了FnOS，之前是用docker跑v2RayA来做代理服务的，找了一圈�
 > git clone --branch master --depth 1 https://gh-proxy.com/https://github.com/nelvko/clash-for-linux-install.git
 > ```
 
+> 2026年1月5日更新
+可能会导致ddns有问题，慎重全局代理
+
 ### 命令行代理
 
 命令行代理实在太重要了，因为今年主要换了linux作为日常使用，开发和安装工具的时候使用命令行的场景变得更多了
