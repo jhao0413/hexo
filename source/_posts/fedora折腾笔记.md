@@ -3,6 +3,9 @@ title: fedora折腾笔记
 date: 2026-02-08 13:34:14
 tags:
   - Linux
+  - Fedora
+  - 系统配置
+  - 软件安装
 categories: Linux
 abbrlink: 2026-02-fedora
 ---

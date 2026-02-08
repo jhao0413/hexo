@@ -2,7 +2,9 @@
 title: 【LeetCode】缀点成线
 tags:
   - LeetCode
-categories: Algorithm
+  - 算法
+  - 数学
+categories: 算法
 abbrlink: check-if-it-is-a-straight-line
 date: 2024-10-28 14:00:00
 ---

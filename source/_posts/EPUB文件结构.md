@@ -1,8 +1,11 @@
 ---
 title: EPUB文件结构
 tags:
-  - 杂谈
-categories: 杂谈
+  - 文件格式
+  - EPUB
+  - XML
+  - 技术知识
+categories: 技术知识
 abbrlink: epub-structure
 date: 2024-10-30
 ---

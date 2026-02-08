@@ -1,8 +1,10 @@
 ---
 title: Github使用
 tags:
-  - Github
-categories: Github
+  - Git
+  - GitHub
+  - 版本控制
+categories: 开发工具
 abbrlink: 60077
 date: 2019-11-09 10:00:00
 expires: 2019-11-09 10:00:00

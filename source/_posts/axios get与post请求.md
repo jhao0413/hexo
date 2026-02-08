@@ -2,7 +2,9 @@
 title: axios get与post请求
 tags:
   - Vue
-categories: Vue
+  - Axios
+  - HTTP
+categories: 前端开发
 abbrlink: 9143
 date: 2020-02-18 10:00:00
 expires: 2020-02-18 10:00:00

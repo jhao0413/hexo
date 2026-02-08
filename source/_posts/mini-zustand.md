@@ -1,8 +1,11 @@
 ---
 title: mini-zustand
 tags:
-  - Frontnd
-categories: Frontnd
+  - React
+  - Zustand
+  - 状态管理
+  - 源码阅读
+categories: 前端开发
 abbrlink: mini-zustand
 date: 2025-02-10
 thumbnail: "https://jhao413.oss-cn-beijing.aliyuncs.com/20250210123923.png"

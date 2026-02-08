@@ -1,7 +1,9 @@
 ---
 title: frp更新后的配置文件写法变更
 tags:
-  - frp
+  - Frp
+  - 内网穿透
+  - 配置文件
 categories: Linux
 abbrlink: 1
 date: 2024-06-24 23:18:00

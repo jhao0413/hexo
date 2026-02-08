@@ -1,8 +1,10 @@
 ---
-title: wangeditor
+title: wangeditor基本使用
 tags:
   - Vue
-categories: Vue
+  - wangEditor
+  - 富文本编辑器
+categories: 前端开发
 abbrlink: 28431
 date: 2021-04-15 10:00:00
 expires: 2021-04-15 10:00:00

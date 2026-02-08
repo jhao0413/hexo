@@ -2,7 +2,10 @@
 title: 【LeetCode】重新排列句子中的单词
 tags:
   - LeetCode
-categories: Algorithm
+  - 算法
+  - 排序
+  - 字符串
+categories: 算法
 abbrlink: rearrange-words-in-a-sentence
 date: 2024-09-01 14:07:00
 ---

@@ -2,7 +2,9 @@
 title: axios的基本使用
 tags:
   - Vue
-categories: Vue
+  - Axios
+  - 跨域
+categories: 前端开发
 abbrlink: 55319
 date: 2020-01-12 10:00:00
 expires: 2020-01-12 10:00:00

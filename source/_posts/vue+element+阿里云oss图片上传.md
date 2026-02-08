@@ -2,7 +2,10 @@
 title: vue+element+阿里云oss图片上传
 tags:
   - Vue
-categories: Vue
+  - Element UI
+  - 阿里云OSS
+  - 文件上传
+categories: 前端开发
 abbrlink: 63894
 date: 2020-09-24 10:00:00
 expires: 2020-09-24 10:00:00

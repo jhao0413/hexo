@@ -2,7 +2,9 @@
 title: Promise用法详解
 tags:
   - JavaScript
-categories: Frontnd
+  - Promise
+  - 异步编程
+categories: 前端开发
 abbrlink: promise-usage
 date: 2024-08-30 23:10:00
 ---

@@ -1,8 +1,11 @@
 ---
 title: 【Nas折腾日记】Frp + Nginx 内网穿透
 tags:
-    - Nas
-categories: Nas
+  - NAS
+  - Frp
+  - Nginx
+  - 内网穿透
+categories: NAS
 abbrlink: nas-note-frp-nginx
 date: 2025-03-22
 ---

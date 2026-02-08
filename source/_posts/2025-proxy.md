@@ -1,8 +1,11 @@
 ---
 title: 目前的代理方案
 tags:
-  - 杂谈
-categories: 杂谈
+  - 代理
+  - Clash
+  - NAS
+  - 网络工具
+categories: 网络工具
 abbrlink: 2025-proxy
 date: 2025-11-19
 ---

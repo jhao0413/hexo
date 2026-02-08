@@ -1,8 +1,11 @@
 ---
 title: 目前的代理方案（二）
 tags:
-  - 杂谈
-categories: 杂谈
+  - 代理
+  - Clash
+  - 链式代理
+  - 机场
+categories: 网络工具
 abbrlink: 2026-proxy
 date: 2026-01-28
 ---

@@ -1,8 +1,11 @@
 ---
 title: Sunshine + Moonlight 串流操作记录（一）
 tags:
-  - Software
-categories: Software
+  - Sunshine
+  - Moonlight
+  - 串流
+  - 远程桌面
+categories: 软件工具
 abbrlink: sunshine-and-moonlight-streaming
 date: 2024-11-20
 ---

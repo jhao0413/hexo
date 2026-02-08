@@ -1,8 +1,11 @@
 ---
 title: 避免 Day.js 与 UTC 时区的常见陷阱
 tags:
-  - Frontnd
-categories: Frontnd
+  - JavaScript
+  - Day.js
+  - 时区
+  - 时间处理
+categories: 前端开发
 abbrlink: 2
 date: 2024-08-24 10:00:00
 ---
