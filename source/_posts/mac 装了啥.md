@@ -14,6 +14,7 @@ date: 2026-07-18 13:47:43
 - espanso 文本替换，如 :phone 自动替换自己的邮箱
 - keka 解压缩
 - mos 让鼠标滚动更顺滑，提升是比较明显的
+- mac-mouse-fix 好像都可以代替mos了，而且扩展了鼠标的操作非常好用 
 - pixpin 截图
 - 微信输入法 无需多言，确实好用，我没有隐私
 - clash-verge 已经能满足我的需求了，没太 get 到用 surge 能解决我的什么的问题，而且 surge 有点贵
@@ -27,3 +28,6 @@ date: 2026-07-18 13:47:43
 - hanako
 - zap 终端目前主要用这个，根据warp二开的版本，可以接自己的模型，还是比较方便的
 - cursor 配合工具可以接自己的模型
+
+### 其他补充
+- [clash rules](https://ruleset.skk.moe/List/non_ip/ai.conf)
