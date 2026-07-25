@@ -19,6 +19,7 @@ date: 2026-07-18 13:47:43
 - 微信输入法 无需多言，确实好用，我没有隐私
 - clash-verge 已经能满足我的需求了，没太 get 到用 surge 能解决我的什么的问题，而且 surge 有点贵
 - easydict 差点就买bob了，发现easydict基本功能都有还开源免费就换过来了
+- betterDispay 神中神了，接了自己的2k显示器之后，发现字体和布局都变得特别小，还不能像windows一样改缩放比例，这个软件实在是救命了，同类型的还有one-key-hidpi（但看issue说不支持M芯片的mac，就没尝试了）
 
 ### AI
 基本都是常见的了
@@ -31,3 +32,9 @@ date: 2026-07-18 13:47:43
 
 ### 其他补充
 - [clash rules](https://ruleset.skk.moe/List/non_ip/ai.conf)
+
+**调快程序坞呼出速度命令**
+
+```shell
+defaults write com.apple.dock "autohide-delay" -float "0" && killall Dock
+```
